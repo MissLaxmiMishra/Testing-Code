@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Testing-Code
+This is my testing  code.
+<br>
+Author- Laxmi Mishra
+>>>>>>> 83bbc94aba52a6cd01ab11c600eb61caa59c270b
